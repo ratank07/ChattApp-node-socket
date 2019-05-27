@@ -1,0 +1,23 @@
+{
+  "name": "chattapp-node-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratank07/ChattApp-node-socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratank07/ChattApp-node-socket/issues"
+  },
+  "homepage": "https://github.com/ratank07/ChattApp-node-socket#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
